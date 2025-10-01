@@ -1,0 +1,16 @@
+Source: bunsen-icons
+Section: x11
+Priority: optional
+Maintainer: John Crawley <john@bunsenlabs.org>
+Build-Depends: debhelper-compat (= 13)
+Rules-Requires-Root: no
+Standards-Version: 4.6.2
+Homepage: https://github.com/BunsenLabs/bunsen-icons
+Vcs-Git: https://github.com/BunsenLabs/bunsen-icons.git
+Vcs-Browser: https://github.com/BunsenLabs/bunsen-icons
+
+Package: bunsen-icons-base
+Architecture: all
+Depends: ${misc:Depends}, labbe-icons-bark, labbe-icons-sage
+Description: The default BunsenLabs icon theme
+ This package depends on the current default icon themes used by BunsenLabs.

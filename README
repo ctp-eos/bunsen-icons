@@ -1,0 +1,7 @@
+# bunsen-icons
+Icon themes for bunsenlabs
+
+bunsen-icons-base
+-----------------
+
+This package depends on the default icon theme for the current BunsenLabs release.
