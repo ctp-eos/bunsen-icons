@@ -12,5 +12,6 @@ Vcs-Browser: https://github.com/BunsenLabs/bunsen-icons
 Package: bunsen-icons-base
 Architecture: all
 Depends: ${misc:Depends}, labbe-icons-bark, labbe-icons-sage
-Description: The default BunsenLabs icon theme
- This package depends on the current default icon themes used by BunsenLabs.
+Description: default BunsenLabs icon theme
+ This empty package depends on the current default icon themes
+ used by BunsenLabs.
