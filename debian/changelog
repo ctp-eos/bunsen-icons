@@ -1,0 +1,7 @@
+bunsen-icons (13.0-1) carbon; urgency=medium
+
+  * Initial release.
+  * The package currently built by this source is bunsen-icons-base,
+     which depends on the current BunsenLabs default icon themes.
+
+ -- John Crawley <john@bunsenlabs.org>  Wed, 01 Oct 2025 16:04:27 +0900
